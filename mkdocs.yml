@@ -2,3 +2,6 @@ site_name: Developer Portal
 site_url: https://lancedb.com/dev
 theme:
   name: material
+plugins:
+  - search
+  - blog
